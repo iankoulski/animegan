@@ -14,4 +14,3 @@ fi
 if [ ! "${DRY_RUN}" == "true" ]; then
         eval "${CMD}"
 fi
-
